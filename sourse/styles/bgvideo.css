@@ -1,0 +1,26 @@
+.bgvideo {
+    height: 70vh;
+    width: 100%;
+    position: relative;
+
+}
+
+
+.bgvideo video {
+    height: 70vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.effect {
+    height: 70vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    background-color: rgba(0, 0, 0, 0.108);
+}
